@@ -14,5 +14,5 @@ _I've played in a variety of bands since 2005. This is a homepage portfolio with
 
 ## Technologies Used
 
-_HTML
-_CSS
+_HTML_
+_CSS_
