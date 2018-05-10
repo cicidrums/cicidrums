@@ -10,10 +10,10 @@ _I've played in a variety of bands since 2005. I've decided to use this first co
 
 ## Setup/Installation Requirements
 
-*_a web browser_
+_a web browser_
 
 ## Technologies Used
 
-### _HTML_
-### _CSS_
-### _A bit of Bootstrap_
+_HTML_
+_CSS_
+_A bit of Bootstrap_
