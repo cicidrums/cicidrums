@@ -1,11 +1,38 @@
-body {
-  margin: 20px;
-  background-color: #013A6B;
-  background-image: -webkit-linear-gradient(45deg, #F6EA36 50%, #7ACC76 50%);
-  min-height: 500px;
-  text-align: center;
+
+
+
+.about-me {
+  font-family: 'Padauk', sans-serif;
+  font-size: 20px;
+  color: #fff;
+  text-align: justify;
+}
+
+.box-image {
+  text-align: right;
+  vertical-align: middle;
+  
+}
+
+.box-text {
+  background-color: #12317D;
+  padding: 25px;
+}
+
+h2 {
+  text-align: left;
 }
 
 h1 {
-  color: #FFF;
+  color: #F6EA36;
+  font-family: 'Yatra One', cursive;
+}
+
+body {
+  font-family: 'Kreon', serif;
+  margin: 20px;
+  color: #F6EA36;
+  background-color: #7ACC76;
+  min-height: 500px;
+  text-align: center;
 }
