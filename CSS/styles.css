@@ -6,46 +6,64 @@
 }
 
 .about-me {
-  font-family: 'Padauk', sans-serif;
+  font-family: 'Padauk';
   font-size: 20px;
   color: #fff;
   text-align: justify;
 }
 
-.projects h2 {
+.projects ul {
+  font-size: 20px;
+  font-family: 'Padauk';
+}
+
+.projects li:hover{
   font-size: 30px;
-  color: #000;
+}
+
+.projects h2 {
+  font-family: 'Kreon' serif;
+  font-size: 30px;
+  color: #F6EA36;
+  text-align: left;
+  vertical-align: middle;
 }
 
 .projects {
   position: relative;
   text-align: left;
   color: #fff;
-
-
+  float: left;
+  vertical-align: middle;
+  padding: 10px;
 
 }
-
 
 .box-image h3 {
   color: #fff;
   text-align: right;
-  position: relative;
+
 }
 
 .box-image {
   text-align: center;
   vertical-align: middle;
   background-color: #F6EA36;
-  margin: 20px;
-  padding: 50px;
-  float: center;
-  width: 400px;
+  margin: 10px;
+  margin-right: 200px;
+  padding-top: 50px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+  padding-right: 10px;
+  float: left;
+  width: 450px;
+  height: 600px;
 }
 
 
 h2 {
   text-align: left;
+  font-size: 30px;
 }
 
 h1 {
