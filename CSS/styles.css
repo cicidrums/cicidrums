@@ -1,5 +1,10 @@
 
 
+.hello {
+  color: #000;
+  font-weight: bold;
+
+}
 
 .about-me {
   font-family: 'Padauk', sans-serif;
@@ -9,13 +14,18 @@
 }
 
 .box-image {
-  text-align: right;
+  text-align: center;
   vertical-align: middle;
-  
+  background-color: #F6EA36;
+  margin: 20px;
+  padding: 50px;
+  float: center;
+  width: 300px;
+
+
 }
 
 .box-text {
-  background-color: #12317D;
   padding: 25px;
 }
 
