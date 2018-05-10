@@ -1,8 +1,12 @@
 
+.cicidrums {
+  color: #C60D85;
+}
 
 .hello {
   color: #000;
   font-weight: bold;
+  font-size: 30px;
 }
 
 .about-me {
@@ -13,9 +17,11 @@
 }
 
 .projects ul {
-  font-size: 20px;
-  font-family: 'Padauk';
+  font-size: 30px;
+  font-family: 'Courier New';
   line-height: normal;
+  list-style-type: none;
+  text-align: left;
 }
 
 .projects li:hover{
@@ -72,6 +78,7 @@ h2 {
 h1 {
   color: #F6EA36;
   font-family: 'Yatra One', cursive;
+  font-size: 60px;
 }
 
 body {
