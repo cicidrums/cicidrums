@@ -3,7 +3,6 @@
 .hello {
   color: #000;
   font-weight: bold;
-
 }
 
 .about-me {
@@ -13,6 +12,27 @@
   text-align: justify;
 }
 
+.projects h2 {
+  font-size: 30px;
+  color: #000;
+}
+
+.projects {
+  position: relative;
+  text-align: left;
+  color: #fff;
+
+
+
+}
+
+
+.box-image h3 {
+  color: #fff;
+  text-align: right;
+  position: relative;
+}
+
 .box-image {
   text-align: center;
   vertical-align: middle;
@@ -20,14 +40,9 @@
   margin: 20px;
   padding: 50px;
   float: center;
-  width: 300px;
-
-
+  width: 400px;
 }
 
-.box-text {
-  padding: 25px;
-}
 
 h2 {
   text-align: left;
