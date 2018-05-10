@@ -15,10 +15,15 @@
 .projects ul {
   font-size: 20px;
   font-family: 'Padauk';
+  line-height: normal;
 }
 
 .projects li:hover{
-  font-size: 30px;
+  font-size: 50px;
+  cursor: pointer;
+  color: #000;
+  font-family: 'Courier New';
+  font-weight: bold;
 }
 
 .projects h2 {
@@ -36,13 +41,12 @@
   float: left;
   vertical-align: middle;
   padding: 10px;
-
+  width: auto;
 }
 
 .box-image h3 {
   color: #fff;
   text-align: right;
-
 }
 
 .box-image {
@@ -57,9 +61,8 @@
   padding-right: 10px;
   float: left;
   width: 450px;
-  height: 600px;
+  height: 700px;
 }
-
 
 h2 {
   text-align: left;
