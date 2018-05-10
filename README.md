@@ -14,6 +14,6 @@ _a web browser_
 
 ## Technologies Used
 
-_HTML_
-_CSS_
-_A bit of Bootstrap_
+* _HTML_
+* _CSS_
+* _A bit of Bootstrap_
