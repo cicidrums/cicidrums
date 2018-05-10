@@ -1,4 +1,4 @@
-# _Cicidrums Webpage_
+# _Cici's Drumming Portfolio_
 
 #### Drumming portfolio to date, May 2018
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_I've played in a variety of bands since 2005. This is a homepage portfolio with links to some of these projects._
+_I've played in a variety of bands since 2005. I've decided to use this first code review homework to make a homepage portfolio with links to some of these projects._
 
 ## Setup/Installation Requirements
 
@@ -14,5 +14,6 @@ _I've played in a variety of bands since 2005. This is a homepage portfolio with
 
 ## Technologies Used
 
-_HTML_
-_CSS_
+### _HTML_
+### _CSS_
+### _A bit of Bootstrap_
