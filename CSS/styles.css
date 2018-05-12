@@ -27,9 +27,9 @@
 }
 
 .nav-tabs {
-  font-size: 20px;
+  font-size: 16px;
   color: #C60D85;
-  font-family: 'Courier';
+  font-family: sans-serif;
 }
 
 .hello {
@@ -53,7 +53,12 @@
   text-align: left;
 }
 
-.projects li:hover{
+.projects a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.projects li:hover {
   cursor: pointer;
   font-weight: bold;
   background-color: rgba(35, 178, 217, 0.8);
@@ -77,6 +82,26 @@
   width: auto;
 }
 
+.tour-name {
+  color: #C60D85;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.tour-name a {
+  text-decoration: underline;
+}
+
+.tour-name a:hover {
+  color: #F6EA36;
+}
+
+.tours li {
+  font-size: 16px;
+  list-style-type: none;
+  font-family: 'Kreon', serif;
+}
+
 .box-image h3 {
   color: #fff;
   text-align: right;
@@ -87,14 +112,15 @@
   vertical-align: middle;
   background-color: #F6EA36;
   margin: 10px;
-  margin-right: 200px;
+  margin-right: 150px;
+  margin-bottom: 200px;
   padding-top: 50px;
-  padding-bottom: 0px;
+  padding-bottom: 50px;
   padding-left: 50px;
   padding-right: 10px;
   float: left;
-  width: 450px;
-  height: 700px;
+  width: 500px;
+  height: 800px;
 }
 
 h2 {
