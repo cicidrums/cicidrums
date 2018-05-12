@@ -33,9 +33,9 @@
 }
 
 .hello {
-  color: #000;
+  color: rgba(35, 178, 217);
   font-weight: bold;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .about-me {
@@ -47,7 +47,7 @@
 
 .projects ul {
   font-size: 30px;
-  font-family: 'Courier New';
+  font-family: 'Roboto Slab', serif;
   line-height: normal;
   list-style-type: none;
   text-align: left;
@@ -55,9 +55,9 @@
 
 .projects li:hover{
   cursor: pointer;
-  font-style: italic;
-  font-family: 'Courier New';
   font-weight: bold;
+  background-color: rgba(35, 178, 217, 0.8);
+  color: #FFF;
 }
 
 .projects h2 {
