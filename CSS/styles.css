@@ -4,8 +4,8 @@
 }
 
 .blockquote {
-  border: 20px;
-  border-color: yellow;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 .years {
@@ -113,9 +113,6 @@
 .tours a {
   color: #fff;
 }
-
-
-
 
 .videos {
   text-align: left;
