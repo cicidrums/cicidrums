@@ -20,4 +20,4 @@ _a web browser_
 
 ## License
 
-*Copyright (C) 2018 MIT and Cici Harrison 
+* _Copyright (C) 2018 MIT and Cici Harrison_
