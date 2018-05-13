@@ -26,16 +26,19 @@
   color: #000;
 }
 
+.btn-default a:visited {
+  color: #000;
+}
+
 .nav-tabs {
   font-size: 16px;
   color: #C60D85;
-  font-family: sans-serif;
+  font-family: 'Yatra One', cursive;
 }
 
 .hello {
-  color: rgba(35, 178, 217);
   font-weight: bold;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .about-me {
@@ -109,13 +112,12 @@
 
 .box-image {
   text-align: center;
-  vertical-align: middle;
   background-color: #F6EA36;
   margin: 10px;
   margin-right: 150px;
   margin-bottom: 200px;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
   padding-left: 50px;
   padding-right: 10px;
   float: left;
@@ -123,9 +125,33 @@
   height: 800px;
 }
 
+.videos {
+  margin-left: 0px;
+  text-align: center;
+  float: center;
+  vertical-align: center;
+}
+
+hr {
+  width: 100%;
+  color: blue;
+}
+
+h3 {
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+}
+
 h2 {
   text-align: left;
   font-size: 30px;
+}
+
+.videos h2 {
+  font-size: 50px;
+  text-align: center;
+  padding: 24px;
 }
 
 h1 {
