@@ -3,6 +3,11 @@
   color: #C60D85;
 }
 
+.blockquote {
+  border: 20px;
+  border-color: yellow;
+}
+
 .years {
   font-size: 12px;
 }
@@ -105,16 +110,37 @@
   font-family: 'Kreon', serif;
 }
 
+.tours a {
+  color: #fff;
+}
+
+
+
+
+.videos {
+  text-align: left;
+  float: right;
+  vertical-align: left;
+  margin-bottom: 100px;
+  width: auto;
+}
+
+.tours {
+  width: 500px;
+  text-align: left;
+  float: left;
+}
+
 .box-image h3 {
   color: #fff;
   text-align: right;
 }
 
 .box-image {
-  text-align: center;
+  text-align: left;
   background-color: #F6EA36;
   margin: 10px;
-  margin-right: 150px;
+  margin-right: 250px;
   margin-bottom: 100px;
   padding-top: 50px;
   padding-bottom: 20px;
@@ -123,14 +149,6 @@
   float: left;
   width: 500px;
   height: 800px;
-}
-
-.videos {
-  margin-left: 0px;
-  text-align: center;
-  float: center;
-  vertical-align: center;
-  margin-bottom: 100px;
 }
 
 img {
@@ -155,9 +173,8 @@ h2 {
 }
 
 .videos h2 {
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
-  padding: 24px;
 }
 
 h1 {
