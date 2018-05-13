@@ -130,6 +130,12 @@
   text-align: center;
   float: center;
   vertical-align: center;
+  margin-bottom: 100px;
+}
+
+img {
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 hr {
